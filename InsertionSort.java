@@ -15,6 +15,7 @@ public class InsertionSort {
         int [] arr = {9,14,3,2,43,11,58,22};
 		insertionSort(arr);
 		System.out.println("After insertion sort");
+		System.out.println("After insertion sort");
 		for(int i: arr)
 			System.out.print(i+" ");
 	}
